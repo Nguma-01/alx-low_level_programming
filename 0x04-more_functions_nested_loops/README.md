@@ -8,3 +8,7 @@ task 6:The function that draws a straight line in the terminal.
 task 7:The function that draws a diagonal line on the terminal.
 task 8:The function that prints a square, followed by a new line.
 task 9:The program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+task 10:The function that prints a triangle, followed by a new line.
+#ADVANCED TASKS
+task 11:The program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+task 12:The function that prints an integer.
